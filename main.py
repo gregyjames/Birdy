@@ -1,6 +1,6 @@
 import genData
-#import prettyPrint
-#import SimpleHTTPServer
+import prettyPrint
+import SimpleHTTPServer
 #import SocketServer
 
 #PORT = 8000
