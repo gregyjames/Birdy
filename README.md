@@ -1,5 +1,6 @@
+[![Build Status](https://travis-ci.com/gregyjames/Birdy.svg?token=TAMu6qDfByKbi2gkRs9d&branch=master)](https://travis-ci.com/gregyjames/Birdy)
+
 # Birdy
-=======
 Birdy is a simple tool to analyze key data about your twitter following/followers.
 
 ## Libraries Used
