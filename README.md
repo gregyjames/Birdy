@@ -1,5 +1,4 @@
 # Birdy
-<<<<<<< HEAD
 =======
 Birdy is a simple tool to analyze key data about your twitter following/followers.
 
@@ -22,4 +21,3 @@ access_token_secret = access_token_secret_no_qoutes
 
 ## Contributing
 At the end of the day every contribution is important regardless of size! Therefore, feel free to contribute to the project in any way that you can.
->>>>>>> f69a3c4a775e5dde3f6cd5be9e39a81154e814c6
