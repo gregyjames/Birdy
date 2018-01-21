@@ -24,5 +24,17 @@ access_token_secret = access_token_secret_no_qoutes
 1. pip install -r requirements.txt
 2. python main.py
 
+## Pick Graphs
+By default all graphs are created in order to choose graphs go to prettyPrint.py, and comment out the function calls to the respective graphs.
+
+- Follow_back();
+  - Graph that shows how many of your followers you follow back.
+- Default_profile();
+  - Graph that shows how many of you Users have default profile images.
+- User_Lang();
+  - Pie chart of the various languages spoken by your audience.
+- Tweet_Line();
+  - Line graph of the last tweet time time of all your users. Allows you to zoom into specific time ranges.
+
 ## Contributing
 At the end of the day every contribution is important regardless of size! Therefore, feel free to contribute to the project in any way that you can.
