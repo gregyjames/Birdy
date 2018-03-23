@@ -6,7 +6,7 @@ decorator==4.2.1
 enum34==1.0.4
 fudge==1.1.1
 functools32==3.2.3-2
-html5lib==0.999
+html5lib==1.0.1
 idna==2.6
 ipython-genutils==0.2.0
 jsonschema==2.6.0
