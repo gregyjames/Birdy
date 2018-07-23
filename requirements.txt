@@ -24,7 +24,7 @@ requests-oauthlib==1.0.0
 simplejson==3.16.0
 six==1.11.0
 soundcloud==0.5.0
-tinydb==3.9.0
+tinydb==3.10.0
 traitlets==4.3.2
 tweepy==3.6.0
 ujson==1.35
