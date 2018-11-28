@@ -26,7 +26,7 @@ six==1.11.0
 soundcloud==0.5.0
 tinydb==3.12.1
 traitlets==4.3.2
-tweepy==3.6.0
+tweepy==3.7.0
 ujson==1.35
 urllib3==1.24.1
 virtualenv==16.1.0
