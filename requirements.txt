@@ -12,7 +12,7 @@ ipython-genutils==0.2.0
 jsonschema==3.0.2
 jupyter-core==4.5.0
 nbformat==4.4.0
-oauthlib==3.0.2
+oauthlib==3.1.0
 pathlib==1.0.1
 plotly==4.1.0
 progressbar2==3.42.0
