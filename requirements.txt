@@ -15,7 +15,7 @@ nbformat==4.4.0
 oauthlib==3.1.0
 pathlib==1.0.1
 plotly==4.1.1
-progressbar2==3.46.0
+progressbar2==3.46.1
 pyScss==1.3.5
 python-utils==2.2.0
 pytz==2019.2
