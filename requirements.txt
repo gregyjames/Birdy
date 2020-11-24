@@ -29,5 +29,5 @@ traitlets==4.3.3
 tweepy==3.8.0
 ujson==1.35
 urllib3==1.25.6
-virtualenv==16.7.7
+virtualenv==20.2.1
 wsgiref==0.1.2
