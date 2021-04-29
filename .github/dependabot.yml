@@ -1,0 +1,23 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "11:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: virtualenv
+    versions:
+    - 20.4.0
+    - 20.4.2
+    - 20.4.3
+  - dependency-name: urllib3
+    versions:
+    - 1.26.3
+  - dependency-name: nbformat
+    versions:
+    - 5.1.2
+  - dependency-name: tinydb
+    versions:
+    - 4.3.0
